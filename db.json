@@ -1,0 +1,39 @@
+{
+  "productos": [
+    {
+      "id": 2,
+      "nombre": "Jugo de Naranja",
+      "precio": "1"
+    },
+    {
+      "nombre": "Jugo de Naranja",
+      "precio": "300",
+      "id": 3
+    },
+    {
+      "nombre": "Rib Eye 800g",
+      "precio": "200",
+      "id": 4
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "200",
+      "id": 5
+    },
+    {
+      "nombre": "Rib eye 1kg",
+      "precio": 4000,
+      "id": 6
+    },
+    {
+      "nombre": "Arroz cacun",
+      "precio": "20000",
+      "id": 7
+    },
+    {
+      "nombre": "tequeños",
+      "precio": 8000,
+      "id": 8
+    }
+  ]
+}
