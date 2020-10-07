@@ -8,4 +8,4 @@ Proyecto que permite tener las bases de como funciona redux
 3) redux -> "redux"
 4) redux-thunk -> "para usar funciones asincronas"
 5) axios
-6) herramienta en browser ->  redux-tool-extension
+6) herramienta en browser ->  redux-tool-extension  https://github.com/zalmoxisus/redux-devtools-extension
